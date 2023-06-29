@@ -5,6 +5,6 @@ import { Component } from '@angular/core';
   templateUrl: './display-editor.component.html',
   styleUrls: ['./display-editor.component.scss']
 })
-export class AppComponent {
+export class NotebookDisplayComponent {
 
 }

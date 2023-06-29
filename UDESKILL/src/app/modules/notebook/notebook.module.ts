@@ -1,10 +1,15 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
+import { NotebookComponent } from './notebook/notebook.component';
 
 
 
 @NgModule({
-  declarations: [],
+  declarations: [
+    
+  
+    NotebookComponent
+  ],
   imports: [
     CommonModule
   ]

@@ -5,6 +5,6 @@ import { Component } from '@angular/core';
   templateUrl: './notebook-editor.component.html',
   styleUrls: ['./notebook-editor.component.scss']
 })
-export class AppComponent {
+export class NotebookEditorComponent {
 
 }
